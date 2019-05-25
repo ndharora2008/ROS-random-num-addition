@@ -1,4 +1,4 @@
-# ROS-random-num-addition
+# ROS-Random-number-Addition
 Generating a list of random numbers and additing them using ROS C++
 
 
